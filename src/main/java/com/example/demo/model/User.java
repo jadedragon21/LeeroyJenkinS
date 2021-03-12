@@ -3,6 +3,6 @@ package com.example.demo.model;
 import lombok.Data;
 
 @Data
-public class user {
+public class User {
     private String name;
 }
